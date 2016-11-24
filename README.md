@@ -28,5 +28,5 @@ No configuration needed.
 ### Links
 
 - [on github](https://github.com/Avatar4eg/flarum-ext-transliterator)
-- [on packagist](https://packagist.com/packages/avatar4eg/flarum-ext-transliterator)
+- [on packagist](https://packagist.org/packages/avatar4eg/flarum-ext-transliterator)
 - [issues](https://github.com/avatar4eg/flarum-ext-transliterator/issues)
