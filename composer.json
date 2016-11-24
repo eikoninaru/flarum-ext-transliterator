@@ -1,15 +1,14 @@
 {
-  "name": "avatar4eg/flarum-ext-transliterator",
-  "description": "Flarum extension. Transliterator for urls.",
-  "type": "flarum-extension",
-  "keywords": ["url", "language", "latin"],
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Nikolai Morozov",
-      "email": "avanmorozov@gmail.com"
-    }
-  ],
+    "name": "eikoninaru/flarum-ext-transliterator_24112016",
+    "description": "try to fork",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eikoninaru",
+            "email": "eikoninaru@gmail.com"
+        }
+    ],
   "require": {
     "flarum/core": "^0.1.0-beta.5"
   },
